@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "packs": [
+    {
+      "id": "theme-capybara",
+      "kind": "theme",
+      "assetId": "capybara",
+      "name": "卡皮巴拉奶橘泡汤",
+      "version": "1.0.0",
+      "minAppVersion": "2.0.0",
+      "bytes": 3113592,
+      "sha256": "605909ccfa356b0c14926c6aee11ace4b33aacf3d447863e3828d88e48cbc5a4",
+      "url": "https://github.com/yuanzgood/Time-Tracking-Desktop-Widget-downloads/releases/download/assets-v2.0.1/theme-capybara-1.0.0.zip",
+      "previewUrl": "https://github.com/yuanzgood/Time-Tracking-Desktop-Widget-downloads/releases/download/assets-v2.0.1/theme-capybara-1.0.0.png"
+    },
+    {
+      "id": "theme-hello-kitty",
+      "kind": "theme",
+      "assetId": "hello-kitty",
+      "name": "Hello Kitty 草莓蝴蝶结",
+      "version": "1.0.0",
+      "minAppVersion": "2.0.0",
+      "bytes": 2786099,
+      "sha256": "1a912366eb0e460e0dacf3a4da9a8d29a326c572df2c526fe0f6a8dd1e2e5372",
+      "url": "https://github.com/yuanzgood/Time-Tracking-Desktop-Widget-downloads/releases/download/assets-v2.0.1/theme-hello-kitty-1.0.0.zip",
+      "previewUrl": "https://github.com/yuanzgood/Time-Tracking-Desktop-Widget-downloads/releases/download/assets-v2.0.1/theme-hello-kitty-1.0.0.png"
+    },
+    {
+      "id": "theme-chiikawa",
+      "kind": "theme",
+      "assetId": "chiikawa",
+      "name": "Chiikawa 奶油贴纸",
+      "version": "1.0.0",
+      "minAppVersion": "2.0.0",
+      "bytes": 2407977,
+      "sha256": "fc7ff6480a09fc02599d9664f1004dfc46f828057145d286c35816a09ca201ad",
+      "url": "https://github.com/yuanzgood/Time-Tracking-Desktop-Widget-downloads/releases/download/assets-v2.0.1/theme-chiikawa-1.0.0.zip",
+      "previewUrl": "https://github.com/yuanzgood/Time-Tracking-Desktop-Widget-downloads/releases/download/assets-v2.0.1/theme-chiikawa-1.0.0.png"
+    },
+    {
+      "id": "theme-shinchan",
+      "kind": "theme",
+      "assetId": "shinchan",
+      "name": "蜡笔小新野原家",
+      "version": "1.0.0",
+      "minAppVersion": "2.0.0",
+      "bytes": 2662169,
+      "sha256": "95397380b2d54b2e37a4895c22ce75defb5720a66a7dc049597139dbb75331fc",
+      "url": "https://github.com/yuanzgood/Time-Tracking-Desktop-Widget-downloads/releases/download/assets-v2.0.1/theme-shinchan-1.0.0.zip",
+      "previewUrl": "https://github.com/yuanzgood/Time-Tracking-Desktop-Widget-downloads/releases/download/assets-v2.0.1/theme-shinchan-1.0.0.png"
+    },
+    {
+      "id": "theme-pokemon",
+      "kind": "theme",
+      "assetId": "pokemon",
+      "name": "宝可梦关都伙伴",
+      "version": "1.0.0",
+      "minAppVersion": "2.0.0",
+      "bytes": 4692938,
+      "sha256": "aa71f0cf5f7db57b3bbc6256593a05acb52f5ebfddd76782a91d97b768855178",
+      "url": "https://github.com/yuanzgood/Time-Tracking-Desktop-Widget-downloads/releases/download/assets-v2.0.1/theme-pokemon-1.0.0.zip",
+      "previewUrl": "https://github.com/yuanzgood/Time-Tracking-Desktop-Widget-downloads/releases/download/assets-v2.0.1/theme-pokemon-1.0.0.png"
+    },
+    {
+      "id": "theme-sanrio",
+      "kind": "theme",
+      "assetId": "sanrio",
+      "name": "三丽鸥奶油伙伴",
+      "version": "1.0.0",
+      "minAppVersion": "2.0.0",
+      "bytes": 3356875,
+      "sha256": "0422c067ea07ff7b88b29da9726e04a236f0f6ade692972e19ad038d150abf97",
+      "url": "https://github.com/yuanzgood/Time-Tracking-Desktop-Widget-downloads/releases/download/assets-v2.0.1/theme-sanrio-1.0.0.zip",
+      "previewUrl": "https://github.com/yuanzgood/Time-Tracking-Desktop-Widget-downloads/releases/download/assets-v2.0.1/theme-sanrio-1.0.0.png"
+    },
+    {
+      "id": "companion-hiroshi",
+      "kind": "companion",
+      "assetId": "hiroshi",
+      "name": "广志 · 疲惫上班族",
+      "version": "1.0.0",
+      "minAppVersion": "2.0.0",
+      "bytes": 2785565,
+      "sha256": "51c80d2f1ab2700428ae6aef00ccef4c7b7dcf0a2b4600d156cc3ce1aa2b46d6",
+      "url": "https://github.com/yuanzgood/Time-Tracking-Desktop-Widget-downloads/releases/download/assets-v2.0.1/companion-hiroshi-1.0.0.zip",
+      "previewUrl": "https://github.com/yuanzgood/Time-Tracking-Desktop-Widget-downloads/releases/download/assets-v2.0.1/companion-hiroshi-1.0.0.png"
+    },
+    {
+      "id": "companion-usagi",
+      "kind": "companion",
+      "assetId": "usagi",
+      "name": "乌萨奇 · 涂画搭子",
+      "version": "1.0.0",
+      "minAppVersion": "2.0.0",
+      "bytes": 1121468,
+      "sha256": "33d583c7368186126affa6bbf14ca38e8dce4927b8f3b033b9cf946eb794baf1",
+      "url": "https://github.com/yuanzgood/Time-Tracking-Desktop-Widget-downloads/releases/download/assets-v2.0.1/companion-usagi-1.0.0.zip",
+      "previewUrl": "https://github.com/yuanzgood/Time-Tracking-Desktop-Widget-downloads/releases/download/assets-v2.0.1/companion-usagi-1.0.0.png"
+    },
+    {
+      "id": "companion-hachiware",
+      "kind": "companion",
+      "assetId": "hachiware",
+      "name": "小八 · 认真小搭子",
+      "version": "1.0.0",
+      "minAppVersion": "2.0.0",
+      "bytes": 1456015,
+      "sha256": "efa82194cde2fc8ad734077a115eea3e23cea5659dabc3029891693ba98e23f3",
+      "url": "https://github.com/yuanzgood/Time-Tracking-Desktop-Widget-downloads/releases/download/assets-v2.0.1/companion-hachiware-1.0.0.zip",
+      "previewUrl": "https://github.com/yuanzgood/Time-Tracking-Desktop-Widget-downloads/releases/download/assets-v2.0.1/companion-hachiware-1.0.0.png"
+    },
+    {
+      "id": "companion-chiikawa",
+      "kind": "companion",
+      "assetId": "chiikawa",
+      "name": "吉伊 · 努力小搭子",
+      "version": "1.0.0",
+      "minAppVersion": "2.0.0",
+      "bytes": 2137629,
+      "sha256": "97456a22034e7c5d3ca7144054b87c933d124b34d3e0583aa6b599475a474daa",
+      "url": "https://github.com/yuanzgood/Time-Tracking-Desktop-Widget-downloads/releases/download/assets-v2.0.1/companion-chiikawa-1.0.0.zip",
+      "previewUrl": "https://github.com/yuanzgood/Time-Tracking-Desktop-Widget-downloads/releases/download/assets-v2.0.1/companion-chiikawa-1.0.0.png"
+    },
+    {
+      "id": "companion-kid",
+      "kind": "companion",
+      "assetId": "kid",
+      "name": "怪盗基德 · 月下魔术师",
+      "version": "1.0.0",
+      "minAppVersion": "2.0.0",
+      "bytes": 9735463,
+      "sha256": "e2ebf155bd407ec6b49d5c21d6acb2b5745a0cdf91737510353369a0344322bf",
+      "url": "https://github.com/yuanzgood/Time-Tracking-Desktop-Widget-downloads/releases/download/assets-v2.0.1/companion-kid-1.0.0.zip",
+      "previewUrl": "https://github.com/yuanzgood/Time-Tracking-Desktop-Widget-downloads/releases/download/assets-v2.0.1/companion-kid-1.0.0.png"
+    }
+  ]
+}
